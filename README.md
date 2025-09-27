@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Saaty</h1>
-<h3 align="center">A civil engineer and computer science enthusiast from Lebanon</h3>
+<h3 align="center">A civil engineer and a computer science enthusiast from Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsaaty&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsaaty" /> </p>
 
